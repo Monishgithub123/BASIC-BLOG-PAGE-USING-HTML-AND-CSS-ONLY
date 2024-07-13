@@ -17,6 +17,8 @@ This is a simple blog project showcasing HTML and CSS skills to create an attrac
 
 Contributions are welcome! If you find any issues or have suggestions, feel free to submit a pull request.
 
+HOSTED LINK- "https://monishgithub123.github.io/BASIC-BLOG-PAGE-USING-HTML-AND-CSS-ONLY/"
+
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
